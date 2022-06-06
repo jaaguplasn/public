@@ -73,5 +73,5 @@ $
 
 ### Notions
 
-- [boc](https://doc.rust-lang.org/book/ch15-01-box.html)
+- [box](https://doc.rust-lang.org/book/ch15-01-box.html)
 - [Module std::option](https://doc.rust-lang.org/std/option/)
